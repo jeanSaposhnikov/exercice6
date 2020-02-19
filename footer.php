@@ -22,7 +22,7 @@
 			<?php if ( ! empty( $blog_info ) ) : ?>
 				<a class="site-name" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 			<?php endif; ?>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen') ); ?>" class="imprint"> | http://localhost/2020-veille/
+			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen') ); ?>" class="imprint"> | http://localhost/2020-veille/wordpress/
 			</a>
 			
 			<?php

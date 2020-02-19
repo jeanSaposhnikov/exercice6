@@ -19,3 +19,10 @@ body {
 .entry .entry-title:before {
     height: 0;
 }
+
+@media only screen and (max-width:782px) {
+    .site-description {
+        display: block;
+    }
+    
+}
